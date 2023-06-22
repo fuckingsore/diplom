@@ -1,0 +1,12 @@
+numpy
+geopandas
+joblib
+lightgbm
+matplotlib
+shapely
+scikit-learn
+tqdm
+sentinelhub
+eo-learn
+
+Land dataset of Slovenia: http://eo-learn.sentinel-hub.com/
